@@ -14,9 +14,9 @@ you can use a VR headset, but we want to create an option for a cheaper alternat
 Kinect was buggy, required a lot of space, was expensive and honestly not made at the right time because the industry wasnt really moving in that direction yet. 
 
 ## game mechanics 
-To run, you need to spot jog
-to jump, you need to actulualy jump
-to step left , you need to jump left
-to step right, you need to jump right
+To run, you need to spot jog  
+to jump, you need to actulualy jump  
+to step left , you need to jump left  
+to step right, you need to jump right  
 
 
